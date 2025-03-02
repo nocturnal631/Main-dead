@@ -25,7 +25,7 @@ elseif Chart == 116495829188952 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/nocturnal631/Lobby-dead/refs/heads/main/Deadrail"))()
     Lib:Notify('Supported! loading: ' .. Info.Name)
 elseif Chart == 70876832253163 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/kylosilly/astolfoware/refs/heads/main/scripts/DeadRailGame.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/nocturnal631/Something-dead/refs/heads/main/Death%20rail"))()
     Lib:Notify('Supported! loading: ' .. Info.Name)
 else
     Lib:Notify('Game not supported: ' .. Info.Name)
